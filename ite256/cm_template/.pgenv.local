@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+export PGDATABASE=kdaniel
+export PGHOST=cdevlin.local
+export PGUSER=kdaniel
+export PGPASSWORD=Kaleb123#

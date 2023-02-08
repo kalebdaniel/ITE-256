@@ -12,5 +12,5 @@ CREATE TABLE import.master_plan (
     title               TEXT,
     description         TEXT
 );
-\copy import.master_plan FROM master_plan.csv WITH DELIMITER ',' HEADER CSV;
--- Will use to normalize lookups
+
+

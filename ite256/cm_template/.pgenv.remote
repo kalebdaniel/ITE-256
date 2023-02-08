@@ -1,0 +1,5 @@
+
+export PGDATABASE=kdaniel
+export PGHOST=dbserver.gctaa.net
+export PGUSER=kdaniel
+export PGPASSWORD=Kaleb123#
