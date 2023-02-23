@@ -1,0 +1,21 @@
+INSERT INTO artist(artist_id, song_artist) VALUES (1, 'SZA');
+INSERT INTO artist VALUES (2, 'PinkPantherss');
+INSERT INTO artist VALUES (3, 'Metro Boomin');
+INSERT INTO artist VALUES (4, 'Lil Uzi Vert');
+INSERT INTO artist VALUES (5, '21 Savage');
+INSERT INTO artist VALUES (6, 'The Weeknd');
+INSERT INTO artist VALUES (7, 'Harry Styles');
+INSERT INTO artist VALUES (8, 'Sam Smith');
+INSERT INTO artist VALUES (9, 'Steve Lacy');
+INSERT INTO artist VALUES (10, 'd4vd');
+
+INSERT INTO song(song_id, song_topname) VALUES (1, 'Kill Bill');
+INSERT INTO song VALUES (2, 'Boys a liar');
+INSERT INTO song VALUES (3, 'Creepin');
+INSERT INTO song VALUES (4, 'Just Wanna Rock');
+INSERT INTO song VALUES (5, 'Rich Flex');
+INSERT INTO song VALUES (6, 'Die For You');
+INSERT INTO song VALUES (7, 'As It Was');
+INSERT INTO song VALUES (8, 'Unholy');
+INSERT INTO song VALUES (9, 'Bad Habit');
+INSERT INTO song VALUES (10, 'Romantic Homicide');
